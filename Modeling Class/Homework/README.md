@@ -2,15 +2,19 @@ This files includes homework from  Math 4428 Mathematical Modeling I took in Spr
 
 
 ---- Progess ----
-I've finished adapting Homework 3 and Homework 4 into readable code so If you've looking for good examples of my work check those out first. I would reccomend looking at Homework 4 as the problems are a bit more engaging.
+I've finished adapting Homework 3, Homework 4 and Homework 5 into readable code so If you've looking for good examples of my work check those out first. I would reccomend looking at Homework 4 as the problems are a bit more engaging and in depth than the others.
 
 
 ---- Summaries ----
 Homework 3- includes using one dimensional and two dimensional Newton's method to optimizing a simple profit equation as well as performing a sensitivity analysis on a coefficient in our profit equation.
 
 Homework 4- includes two problems
-         1.) Presents an optimization problem of finding the best location in a city for a police station by the average response time             at each location. Requires plotting a contour plot to hone in on a 2x2 block of the city with which we use the Random Search               Method to find the optimal location of the station. Also includes a sensitivity analysis on how the number of calls in a                   certain block affects the optimal location of the station.
-         2.) Problem 2 has a two variable profit equation that must be optimized with 2D Newton's method and includes numerous sensitivity          analysis's .
+         1.) Presents an optimization problem of finding the best location in a city for a police station by the average response time at each location. Requires plotting a contour plot to hone in on a 2x2 block of the city with which we use the Random Search               Method to find the optimal location of the station. Also includes a sensitivity analysis on how the number of calls in a                   certain block affects the optimal location of the station.
+         2.) Problem 2 has a two variable profit equation that must be optimized with 2D Newton's method and includes numerous sensitivity analysis's .
+         
+         
+Homework 5- includes one problem, a discrete modeling example of docking a spacecraft with an iterative process of adjusting the acceleration. 
+
          
 
 
