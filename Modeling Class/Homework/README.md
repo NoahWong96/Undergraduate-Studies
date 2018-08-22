@@ -16,6 +16,6 @@ Homework 5- includes one problem, a discrete modeling example of docking a space
 
 Homework 6- one problem, population model of whales, given an equation that models the growth of two whale populations I create a fucntion that simulates the whale populations over time. 
          
-
+Homework 8- Same basis as HW 5 using the docking of a spacecraft problem now we look at the eigenvalue analysis of the model and see which eigenvector has a quicker convergence.
 
 
