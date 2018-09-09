@@ -1,0 +1,6 @@
+Senior Project completed Spring 2018 at University of Minnesota Twin Cities
+
+Advisor: Matthias Maier (https://www.math.tamu.edu/~maier/)
+
+This paper provides an introduction to fluid dynamics in particular the concept of potential flow. It follows closely "A Mathematical Introduction to Fluid Mechanics" by Alexandre Chorin and Jerrold Marsden, sections 1.1, 1.2, and 2.1. It introduces concepts like Euler's Equations derived from physical properties, properties of imcompressible flow and states and proves Bernoulli's theorem. Next it introduces the idea of potential flow or irrotational flow and how to model potential flow on the complex plane. I state and proof Blasius' Theorem and the Kutta-Joukowski Theorem important results in potential flow. Finally I apply the results in the paper to three examples of flow around disc, the final example provides a rough sketch of how potential flow can model the Magnus Effect. Magnus Effect is when a spinning cylinder or sphere experiences a force perpendicular to the flow. A good example is how soccer players can curve their kicks by kicking the side of the ball to produce spin. As the ball flies through the air the spin causes the ball to curve. 
+
